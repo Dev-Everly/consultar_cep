@@ -27,3 +27,14 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# Dependências
+/dependencies/
+
+# IDE
+.idea/
+*.iml
+
+# Build
+out/
+target/
